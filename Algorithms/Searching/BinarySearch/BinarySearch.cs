@@ -1,4 +1,4 @@
-﻿namespace DSA;
+﻿namespace DSA.Algorithms.Searching;
 
 public static class BinarySearch
 {
